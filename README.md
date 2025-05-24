@@ -1,3 +1,3 @@
 # deep_learning
 
-Exercícios Praticos de Deep Learning
+Exercicios Praticos de Deep Learning
